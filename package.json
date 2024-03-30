@@ -1,0 +1,16 @@
+{
+  "name": "abhaybackend",
+  "version": "1.0.0",
+  "description": "a basic app to learn backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "abhay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "type": "module"
+}
